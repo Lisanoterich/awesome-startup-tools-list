@@ -273,6 +273,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Notion - https://www.notion.com
 - Microsoft OneNote - https://www.onenote.com (part of [Microsoft 365 Copilot](https://www.office.com))
 - Google Keep - https://keep.google.com
+- NoteRich - https://noterich.com (AI-powered notes with RAG search, 41 languages, free tier)
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
 
